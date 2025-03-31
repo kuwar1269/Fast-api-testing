@@ -28,15 +28,6 @@ To execute the test cases, run:
 ```bash
 pytest testAutomationPytest.py
 ```
-
-## 📷 Screenshots  
-Here are some screenshots of the working API tests:
-
-![Test Results](images\run-fast-api.png)
-![Test Results](images\fast-api.png)
-![FastAPI Docs](images\run-fast-api.png)
-![FastAPI Docs](images\actions.png)
-
 ## 🛠️ CI/CD with GitHub Actions  
 This repository is set up with GitHub Actions to automate the testing process. Every push triggers tests automatically.
 
